@@ -1,0 +1,2 @@
+0 * * * * /home/musicbrainz/musicbrainz-server/admin/cron/hourly-sitemaps.sh
+10 0 * * * /home/musicbrainz/musicbrainz-server/admin/cron/daily-sitemaps.sh
